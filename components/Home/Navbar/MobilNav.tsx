@@ -26,7 +26,11 @@ const MobilNav = ({closeNav, showNav}: Props) => {
           )
         })}
         {/* Close Icon */}
-        <CgClose onClick={closeNav} className='absolute top-[0.7rem] cursor-pointer right-[1.4] sm:w-8 sm:h-8 w-6 h-6 mr-4'/>
+        <CgClose 
+          onClick={closeNav} 
+          className='absolute top-[0.7rem] cursor-pointer right-[1.4rem] sm:w-8 sm:h-8 w-6 h-6 mr-4' 
+        />
+
       </div>
     </div>
     

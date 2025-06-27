@@ -5,8 +5,8 @@ import { FaStar } from 'react-icons/fa';
 const Hero = () => {
 
   return (
-    <div className="relative w-full h-[110vh] max-sm:h-[85vh] max-sm:items-start  flex justify-center flex-col bg-[url('/images/bg.png')] bg-center bg-cover">
-      <div className="w-[90%] md:w-[80%] mx-auto items-center grid grid-col xl:grid-cols-2 gap-10 ">
+    <div className="relative w-full h-[110vh] max-sm:h-[70vh] justify-center    flex  flex-col bg-[url('/images/bg.png')] bg-center bg-cover">
+      <div className="w-[90%] md:w-[80%] mx-auto items-center max-sm:mt-[15rem]  grid grid-col xl:grid-cols-2 gap-10 ">
         {/* Text content */}
         <div data-aos="fade-up" className="">
           <p className="text-sm sm:text-base md:text-xl font-bold text-blue-950">
@@ -16,7 +16,7 @@ const Hero = () => {
           <p className="text-xs sm:text-sm md:text-base font-medium text-gray-700">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt sit nostrum laudantium minus fugiat quisquam ipsum praesentium eveniet dignissimos iusto!</p>
           <div className="grid grid-cols-2 max-md:grid-cols-1">
             {/* section1 */}
-            <div className="flex flex-row items-center gap-5 mt-5">
+            <div className="flex flex-row items-center gap-5 ">
               <Image src="/images/google.png" alt="google" width={40} height={40}/>
               <div className='flex flex-col'>
                 <div className='flex flex-row items-center gap-1'>
@@ -33,7 +33,7 @@ const Hero = () => {
               </div>
             </div>
             {/* section2 */}
-            <div className="flex flex-row items-center gap-5 mt-5">
+            <div className="flex flex-row items-center gap-5 mt-5 max-sm:mt-16">
               <Image src="/images/linkedin.png" alt="linkedin" width={40} height={40}/>
               <div className='flex flex-col'>
                 <div className='flex flex-row items-center gap-1'>
