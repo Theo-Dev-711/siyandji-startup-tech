@@ -15,9 +15,9 @@ const Services = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, cum vel nostrum reprehenderit laboriosam eos eaque ex debitis quam numquam.
         </p>
         {/* started Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-20 gap-10">
           {/* First Box */}
-          <div data-aos="fade-right"  className="flex flex-row items-center gap-5 mt-20">
+          <div data-aos="fade-right"  className="flex flex-row items-center gap-5 ">
             {/* icon */}
             <div className="w-14 h-14 bg-pink-500 rounded-lg flex items-center justify-center bg-opacity-30">
               <FaRocket className="w-6 h-6 text-orange-400"/>
@@ -30,7 +30,7 @@ const Services = () => {
             </div>
           </div>
           {/* 2nd First Box */}
-          <div data-aos="fade-right" className="flex flex-row items-center gap-5 mt-20">
+          <div data-aos="fade-right" className="flex flex-row items-center gap-5 ">
             {/* icon */}
             <div className="w-14 h-14 bg-pink-500 rounded-lg flex items-center justify-center bg-opacity-30">
               <FaBriefcase className="w-6 h-6 text-orange-400"/>
@@ -43,7 +43,7 @@ const Services = () => {
             </div>
           </div>
           {/* 3rd First Box */}
-          <div data-aos="fade-right" className="flex flex-row items-center gap-5 mt-20">
+          <div data-aos="fade-right" className="flex flex-row items-center gap-5">
             {/* icon */}
             <div className="w-14 h-14 bg-pink-500 rounded-lg flex items-center justify-center bg-opacity-30">
               <FaShoppingCart className="w-6 h-6 text-orange-400"/>
@@ -56,7 +56,7 @@ const Services = () => {
             </div>
           </div>
           {/* 4th First Box */}
-          <div data-aos="fade-right" className="flex flex-row items-center gap-5 mt-20">
+          <div data-aos="fade-right" className="flex flex-row items-center gap-5 ">
             {/* icon */}
             <div className="w-14 h-14 bg-pink-500 rounded-lg flex items-center justify-center bg-opacity-30">
               <MdOutlineDesignServices className="w-6 h-6 text-orange-400"/>
@@ -69,7 +69,7 @@ const Services = () => {
             </div>
           </div>
           {/* 5th First Box */}
-          <div data-aos="fade-right" className="flex flex-row items-center gap-5 mt-20">
+          <div data-aos="fade-right" className="flex flex-row items-center gap-5 ">
             {/* icon */}
             <div className="w-14 h-14 bg-pink-500 rounded-lg flex items-center justify-center bg-opacity-30">
               <IoColorPaletteOutline className="w-6 h-6 text-orange-400"/>
@@ -82,7 +82,7 @@ const Services = () => {
             </div>
           </div>
           {/* First Box */}
-          <div data-aos="fade-right" className="flex flex-row items-center gap-5 mt-20">
+          <div data-aos="fade-right" className="flex flex-row items-center gap-5 ">
             {/* icon */}
             <div className="w-14 h-14 bg-pink-500 rounded-lg flex items-center justify-center bg-opacity-30">
               <FaChess className="w-6 h-6 text-orange-400"/>

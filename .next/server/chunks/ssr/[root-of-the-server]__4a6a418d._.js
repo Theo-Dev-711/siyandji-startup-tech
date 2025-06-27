@@ -87,7 +87,7 @@ const Footer = ()=>{
             className: "p-t-16 pb-16",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "w-[80%] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-14",
+                    className: "w-[80%] mx-auto gap-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-14",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "space-y-5",
@@ -117,7 +117,7 @@ const Footer = ()=>{
                                     columnNumber: 21
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950",
+                                    className: "text-sm   text-gray-800 font-medium cursor-pointer hover:text-blue-950",
                                     children: "By Team"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -174,7 +174,7 @@ const Footer = ()=>{
                                     columnNumber: 21
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950",
+                                    className: "text-sm  text-gray-800 font-medium cursor-pointer hover:text-blue-950",
                                     children: "Careers"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -223,7 +223,7 @@ const Footer = ()=>{
                                     columnNumber: 21
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950",
+                                    className: "text-sm  text-gray-800 font-medium cursor-pointer hover:text-blue-950",
                                     children: "E-book & Guides"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -282,7 +282,7 @@ const Footer = ()=>{
                                             columnNumber: 25
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-sm text-blue-950 font-bold",
+                                            className: "text-sm  text-blue-950 font-bold",
                                             children: "juniordev711@gmail.com"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Home/Footer/Footer.tsx",

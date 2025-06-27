@@ -5,13 +5,13 @@ const Footer = () => {
   return (
     <div className=''>
         <div className='p-t-16 pb-16'>
-            <div className='w-[80%] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-14'>
+            <div className='w-[80%] mx-auto gap-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-14'>
                 {/* 1st box */}
                 <div className='space-y-5'>
                     <h1 className='text-lg font-bold'>Solution</h1>
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Enterprise</p>
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>By Work Flow</p>
-                    <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>By Team</p>
+                    <p className='text-sm   text-gray-800 font-medium cursor-pointer hover:text-blue-950'>By Team</p>
                     
                 </div>
                 {/* 2nd box */}
@@ -21,7 +21,7 @@ const Footer = () => {
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>News & Press</p>
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Our Customer </p>
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Leadership</p>
-                    <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Careers</p>
+                    <p className='text-sm  text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Careers</p>
                     
                 </div>
                 {/* 3rd box */}
@@ -30,7 +30,7 @@ const Footer = () => {
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Blog</p>
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Webinar & Events</p>
                     <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>Podcast</p>
-                    <p className='text-sm text-gray-800 font-medium cursor-pointer hover:text-blue-950'>E-book & Guides</p>
+                    <p className='text-sm  text-gray-800 font-medium cursor-pointer hover:text-blue-950'>E-book & Guides</p>
                     
                     
                 </div>
@@ -44,7 +44,7 @@ const Footer = () => {
                     
                     <div>
                         <p className='text-sm text-gray-700   '>Our Email</p>
-                        <p className='text-sm text-blue-950 font-bold'>juniordev711@gmail.com</p>
+                        <p className='text-sm  text-blue-950 font-bold'>juniordev711@gmail.com</p>
                     </div>
                 </div>
             </div>
