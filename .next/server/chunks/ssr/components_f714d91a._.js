@@ -18,9 +18,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$ico
 ;
 const Hero = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "relative w-full h-[110vh] flex justify-center flex-col bg-[url('/images/bg.png')] bg-center bg-cover",
+        className: "relative w-full h-[110vh] max-sm:h-[85vh] max-sm:items-start  flex justify-center flex-col bg-[url('/images/bg.png')] bg-center bg-cover",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "w-[90%] md:w-[80%] mx-auto items-center grid grid-col xl:grid-cols-2 gap-10",
+            className: "w-[90%] md:w-[80%] mx-auto items-center grid grid-col xl:grid-cols-2 gap-10 ",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     "data-aos": "fade-up",

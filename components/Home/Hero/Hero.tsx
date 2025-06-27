@@ -5,8 +5,8 @@ import { FaStar } from 'react-icons/fa';
 const Hero = () => {
 
   return (
-    <div className="relative w-full h-[110vh] flex justify-center flex-col bg-[url('/images/bg.png')] bg-center bg-cover">
-      <div className="w-[90%] md:w-[80%] mx-auto items-center grid grid-col xl:grid-cols-2 gap-10">
+    <div className="relative w-full h-[110vh] max-sm:h-[85vh] max-sm:items-start  flex justify-center flex-col bg-[url('/images/bg.png')] bg-center bg-cover">
+      <div className="w-[90%] md:w-[80%] mx-auto items-center grid grid-col xl:grid-cols-2 gap-10 ">
         {/* Text content */}
         <div data-aos="fade-up" className="">
           <p className="text-sm sm:text-base md:text-xl font-bold text-blue-950">
